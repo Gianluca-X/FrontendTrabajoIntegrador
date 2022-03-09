@@ -1,0 +1,93 @@
+
+.LogoBatman {
+    position: relative;
+    left: 600px;
+    height: 150px;
+    width: 130px;
+}
+
+header {
+    background: #E6E6E6;
+    height: 200px;
+}
+
+h1 {
+    color: #005677;
+    background: #C4C4C4;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;    
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700px;
+    line-height: 50px;
+
+}
+
+main {
+    position: relative;
+    top: 150px;
+}
+
+h2 {
+    background: #C4C4C4;
+    height: 30px;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align:left;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 30px;
+
+}
+
+ul {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+ul span{
+    font-style: italic;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serifs;
+    font-size:15px;
+    font-style: inherit;
+}
+
+footer { 
+    background: #005677;
+    position: relative;
+    top: 300px;
+}
+
+footer span {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+    position: relative;
+    left: 565px;
+}
+
+.logoInstagram {
+position: relative;
+left: 590px;
+top: 3px;
+}
+
+.logoLinkedin {
+    position: relative;
+    left: 610px;
+    top: 3px
+}
