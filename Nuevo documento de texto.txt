@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 e2qweq
+=======
+_y_Github_Cabrera_Gianluca
+
+Doggett@Doggett MINGW64 ~/Documents/Digital house/Informatica/DH/clase6/mochila_c2-0222 (main)
+$ touch Git_y_Github_Cabrera_Gianluca/Archivo.txt
+
+Doggett@Doggett MINGW64 ~/Documents/Digital house/Informatica/DH/clase6/mochila_c2-0222 (main)
+$ git checkout Cabrera_Gianluca
+Switched to branch 'Cabrera_Gianluca'
+
+Doggett@Doggett MINGW64 ~/Documents/Digital house/Informatica/DH/clase6/mochila_c2-0222 (Cabrera_Gianluca)
+$ñ.l.
+>>>>>>> afc9407091cea957d4c731a65da388b871bf4084
