@@ -19,7 +19,7 @@ header  {
 }
 header h1{
     background-color: #00669F;
-    position:relative;
+    position:fixed;
     width: 1323px;
     height: 120px;
     top: -34px;
